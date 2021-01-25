@@ -1,4 +1,7 @@
 # primer-binder-wn: 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EmmanuelMoralesNeri/primer-binder-wn/HEAD)
+
 https://hub.gke2.mybinder.org/user/emmanuelmorales-rimer-binder-wn-jir0av0d/notebooks/Binder1.ipynb
 
 https://mybinder.org/v2/gh/EmmanuelMoralesNeri/primer-binder-wn/HEAD
