@@ -1,4 +1,5 @@
 numpy==1.19.5
 pandas
 matplotlib
+cv2
 opencv-python
