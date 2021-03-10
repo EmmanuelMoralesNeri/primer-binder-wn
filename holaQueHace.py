@@ -25,12 +25,12 @@ ventana.resizeable(False, False)
 
 
 # Cargar imagen
-img = PhotoImage(file="t")
+img = PhotoImage(file="img/tene.jpg")
 img_lbl = Label(ventana, imagen=img, bg="#292629")
 img_lbl.grid(row=0, column=0, columnspan=3, padx=5, pady=5)
 
 # 
-imagen2 = Image.open(".png")
+imagen2 = Image.open("img/tene.jpg")
 imagen2 = imagen2.resize((400,50), Image.ANTIALIAS)
 imagen2 = ImageTk.PhotoImage(imagen2)
 img_lbl2 = Label(ventana, image=imagen2, bg="#292629")
