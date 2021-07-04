@@ -3,8 +3,6 @@ pandas
 matplotlib
 geopandas 
 
-
-math
 rio_tiler 
 sentinel2
 skimage 
