@@ -5,5 +5,4 @@ geopandas
 
 rio_tiler 
 sentinel2
-skimage 
-exposure
+from skimage import exposure
