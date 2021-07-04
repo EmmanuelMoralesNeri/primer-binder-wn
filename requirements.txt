@@ -6,5 +6,3 @@ geopandas
 rio_tiler 
 sentinel2
 exposure
-skimage 
-
