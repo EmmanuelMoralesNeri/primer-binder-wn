@@ -4,4 +4,4 @@ matplotlib
 geopandas 
 
 sentinel2
-skimage 
+exposure 
