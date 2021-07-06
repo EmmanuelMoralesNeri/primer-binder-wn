@@ -3,6 +3,5 @@ pandas
 matplotlib
 geopandas 
 
-rio_tiler 
-sentinel2
-exposure
+rio-tiler==2.1.0 
+skimage 
