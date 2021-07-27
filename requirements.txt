@@ -2,7 +2,3 @@ numpy==1.19.5
 pandas
 matplotlib
 geopandas 
-
-ee
-sentinel2
-exposure 
